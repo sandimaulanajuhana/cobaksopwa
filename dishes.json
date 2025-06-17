@@ -1,0 +1,275 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Bakso Cincang",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/bakso%20cincang%2002.jpg",
+      "images": [
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/bakso%20cincang%2002.jpg",
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/bakso%20cincang%2002.jpg",
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/bakso%20cincang%2002.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Bakso Satuan"]
+    },
+    {
+      "id": 2,
+      "name": "Paket Bakso Cincang",
+      "price": 13.49,
+      "weight": 200,
+      "kcal": 110,
+      "image": "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/paket-bakso-cincang-sq.jpg",
+      "images": [
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/paket-bakso-cincang-sq.jpg",
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/paket-bakso-cincang-sq.jpg",
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/paket-bakso-cincang-sq.jpg"
+      ],
+      "description": "Bakso cincang dan bakso kecil dalam kuah kaldu gurih, lengkap dengan mie, sawi, dan bawang. Fresh. Halal. Premium.",
+      "dietaryPreferences": ["High Protein", "Low Carb", "Low Sugar"],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": true,
+      "isHot": false,
+      "menu": ["Paket Bakso"]
+    },
+    {
+      "id": 3,
+      "name": "Bakso Frozen Cincang 6 Pcs",
+      "price": 15.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Frozen%20Cincang%206%20Pcs.jpg",
+      "images": [
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Frozen%20Cincang%206%20Pcs.jpg",
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Frozen%20Cincang%206%20Pcs.jpg",
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Frozen%20Cincang%206%20Pcs.jpg"
+      ],
+      "description": "Bakso cincang dalam kemasan vacuum pack, lengkap dengan kaldu siap masak. Fresh. Halal. Premium.",
+      "dietaryPreferences": ["High Protein", "Low Carb", "Low Sugar"],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Bakso Frozen"]
+    },
+    {
+      "id": 4,
+      "name": "Mie Ayam Gulai",
+      "price": 6.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Mie%20Ayam%20Gulai%2002.jpg",
+      "images": [
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Mie%20Ayam%20Gulai%2002.jpg",
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Mie%20Ayam%20Gulai%2002.jpg",
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Mie%20Ayam%20Gulai%2002.jpg"
+      ],
+      "description": "Mie kenyal dengan ayam gulai rempah khas, disajikan dengan kuah kaldu, sayuran, dan taburan bawang. Fresh. Halal. Premium.",
+      "dietaryPreferences": ["Low Calorie", "Low Fat", "Vegetarian"],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": true,
+      "menu": ["Menu Mie"]
+    },
+    {
+      "id": 5,
+      "name": "Bakso Bakar",
+      "price": 14.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Bakar%20Urat%2002.jpg",
+      "images": [
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Bakar%20Urat%2002.jpg",
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Bakar%20Urat%2002.jpg",
+        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Bakar%20Urat%2002.jpg"
+      ],
+      "description": "Bakso panggang oles kecap manis-gurih, disajikan dengan bawang dan saus cabai. Fresh. Halal. Premium.",
+      "colors": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "dietaryPreferences": ["High Protein", "Comfort Food", "Rich Flavor"],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Camilan Bakso"]
+    },
+    {
+      "id": 6,
+      "name": "Pan-Seared Duck",
+      "price": 18.99,
+      "weight": 200,
+      "kcal": 110,
+      "oldPrice": 229.7,
+      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/06.jpg",
+      "images": [
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/06.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/06.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/06.jpg"
+      ],
+      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
+      "dietaryPreferences": [
+        "High Protein",
+        "Low Carb",
+        "Low Sugar",
+        "Keto Friendly",
+        "Gluten Free"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": true,
+      "menu": ["meat", "hot meals"]
+    },
+    {
+      "id": 7,
+      "name": "Tandoori Chicken",
+      "price": 17.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/07.jpg",
+      "images": [
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/07.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/07.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/07.jpg"
+      ],
+      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
+      "dietaryPreferences": [
+        "High Protein",
+        "Low Carb",
+        "Low Sugar",
+        "Gluten Free"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["meat", "hot meals"]
+    },
+    {
+      "id": 8,
+      "name": "Honey Glazed Ham",
+      "price": 13.49,
+      "weight": 200,
+      "kcal": 110,
+      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/08.jpg",
+      "images": [
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/08.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/08.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/08.jpg"
+      ],
+      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
+      "dietaryPreferences": ["High Protein", "Rich Flavor", "Sweet and Savory"],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["meat", "hot meals"]
+    },
+    {
+      "id": 9,
+      "name": "Cream Soup",
+      "price": 5.49,
+      "weight": 200,
+      "kcal": 110,
+      "oldPrice": 229.7,
+      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/09.jpg",
+      "images": [
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/09.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/09.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/09.jpg"
+      ],
+      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
+      "dietaryPreferences": [
+        "Low Calorie",
+        "Low Fat",
+        "Vegetarian",
+        "Gluten Free"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["soups", "hot meals"]
+    },
+    {
+      "id": 10,
+      "name": "Pancakes",
+      "price": 12.79,
+      "weight": 200,
+      "kcal": 110,
+      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/10.jpg",
+      "images": [
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/10.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/10.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/10.jpg"
+      ],
+      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
+      "dietaryPreferences": ["High Carbs", "Sweet", "Vegetarian"],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["desserts"]
+    },
+    {
+      "id": 11,
+      "name": "Vegetable salad",
+      "price": 11.49,
+      "weight": 200,
+      "kcal": 110,
+      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/11.jpg",
+      "images": [
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/11.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/11.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/11.jpg"
+      ],
+      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
+      "dietaryPreferences": [
+        "Low Calorie",
+        "Low Carb",
+        "Vegan Friendly",
+        "Vegetarian"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["salads"]
+    }
+  ]
+}
