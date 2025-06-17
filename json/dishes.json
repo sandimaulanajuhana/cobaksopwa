@@ -8,8 +8,8 @@
       "kcal": 110,
       "image": "https://sandimaulanajuhana.github.io/cobaksopwa/img/bakso-cincang.jpg",
       "images": [
-        "https://sandimaulanajuhana.github.io/cobaksopwa/img/bakso-cincang.jpg",
-        "https://sandimaulanajuhana.github.io/cobaksopwa/img/bakso-cincang.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/06.jpg",
+        "https://george-fx.github.io/APIs/dinehub/assets/dishes/08.jpg",
         "https://sandimaulanajuhana.github.io/cobaksopwa/img/bakso-cincang.jpg"
       ],
       "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
@@ -24,7 +24,7 @@
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["Bakso Satuan"]
+      "menu": ["Satuan"]
     },
     {
       "id": 2,
@@ -44,7 +44,7 @@
       "isRecommended": true,
       "isNew": true,
       "isHot": false,
-      "menu": ["Paket Bakso"]
+      "menu": ["Paket"]
     },
     {
       "id": 3,
@@ -64,7 +64,7 @@
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["Bakso Frozen"]
+      "menu": ["Frozen"]
     },
     {
       "id": 4,
@@ -84,7 +84,7 @@
       "isRecommended": true,
       "isNew": false,
       "isHot": true,
-      "menu": ["Menu Mie"]
+      "menu": ["Mie"]
     },
     {
       "id": 5,
@@ -126,7 +126,7 @@
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["Camilan Bakso"]
+      "menu": ["Camilan"]
     },
     {
       "id": 6,
