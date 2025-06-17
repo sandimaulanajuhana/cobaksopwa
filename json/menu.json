@@ -3,37 +3,37 @@
     {
       "id": 1,
       "name": "Satuan",
-      "image": "https://sandimaulanajuhana.github.io/cobaksopwa/img/menu-satuan.jpg"
+      "image": "/foto/menu-satuan.jpg"
     },
     {
       "id": 2,
       "name": "Paket",
-      "image": "https://sandimaulanajuhana.github.io/cobaksopwa/img/menu-frozen.jpg"
+      "image": "/foto/menu-paket.jpg"
     },
     {
       "id": 3,
       "name": "Frozen",
-      "image": "https://sandimaulanajuhana.github.io/cobaksopwa/img/menu-paket.jpg"
+      "image": "/foto/menu-frozen.jpg"
     },
     {
       "id": 4,
       "name": "Mie",
-      "image": "https://sandimaulanajuhana.github.io/cobaksopwa/img/menu-mie.jpg"
+      "image": "/foto/menu-mie.jpg"
     },
     {
       "id": 5,
       "name": "Nasi",
-      "image": "https://sandimaulanajuhana.github.io/cobaksopwa/img/menu-nasi.jpg"
+      "image": "/foto/menu-nasi.jpg"
     },
     {
       "id": 6,
       "name": "Camilan",
-      "image": "https://sandimaulanajuhana.github.io/cobaksopwa/img/menu-camilan.jpg"
+      "image": "/foto/menu-camilan.jpg"
     },
     {
       "id": 7,
       "name": "Apothecook",
-      "image": "https://sandimaulanajuhana.github.io/cobaksopwa/img/menu-apothecook.jpg"
+      "image": "/foto/menu-apothecook.jpg"
     }
     
   ]

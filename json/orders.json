@@ -11,13 +11,13 @@
             "products": [
                 {
                     "id": 1,
-                    "name": "Beef Stroganoff",
+                    "name": "Bakso Cincang",
                     "quantity": 1,
                     "price": 214.00
                 },
                 {
                     "id": 2,
-                    "name": "Vegetable salad",
+                    "name": "Paket Bakso Kecil",
                     "quantity": 1,
                     "price": 312.00
                 }
@@ -34,13 +34,13 @@
             "products": [
                 {
                     "id": 1,
-                    "name": "Beef Stroganoff",
+                    "name": "Bakso Frozen Urat 6 Pcs",
                     "quantity": 1,
                     "price": 214.00
                 },
                 {
                     "id": 2,
-                    "name": "Vegetable salad",
+                    "name": "Ayam Sambal Hitam",
                     "quantity": 1,
                     "price": 312.00
                 }
@@ -57,13 +57,13 @@
             "products": [
                 {
                     "id": 1,
-                    "name": "Beef Stroganoff",
+                    "name": "Bakso Urat",
                     "quantity": 1,
                     "price": 214.00
                 },
                 {
                     "id": 2,
-                    "name": "Vegetable salad",
+                    "name": "Bakso Cincang",
                     "quantity": 1,
                     "price": 312.00
                 }

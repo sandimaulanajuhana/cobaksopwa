@@ -6,11 +6,11 @@
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "https://sandimaulanajuhana.github.io/cobaksopwa/img/bakso-cincang.jpg",
+      "image": "/foto/bakso-cincang.jpg",
       "images": [
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/06.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/08.jpg",
-        "https://sandimaulanajuhana.github.io/cobaksopwa/img/bakso-cincang.jpg"
+        "/foto/bakso-cincang.jpg",
+        "/foto/bakso-cincang.jpg",
+        "/foto/bakso-cincang.jpg"
       ],
       "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
       "dietaryPreferences": [
@@ -28,38 +28,128 @@
     },
     {
       "id": 2,
-      "name": "Paket Bakso Cincang",
-      "price": 13.49,
+      "name": "Bakso Urat",
+      "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "https://sandimaulanajuhana.github.io/cobaksopwa/img/paket-bakso-cincang.jpg",
+      "image": "/foto/bakso-urat.jpg",
       "images": [
-        "https://sandimaulanajuhana.github.io/cobaksopwa/img/paket-bakso-cincang.jpg",
-        "https://sandimaulanajuhana.github.io/cobaksopwa/img/paket-bakso-cincang.jpg",
-        "https://sandimaulanajuhana.github.io/cobaksopwa/img/paket-bakso-cincang.jpg"
+        "/foto/bakso-urat.jpg",
+        "/foto/bakso-urat.jpg",
+        "/foto/bakso-urat.jpg"
       ],
-      "description": "Bakso cincang dan bakso kecil dalam kuah kaldu gurih, lengkap dengan mie, sawi, dan bawang. Fresh. Halal. Premium.",
-      "dietaryPreferences": ["High Protein", "Low Carb", "Low Sugar"],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
       "rating": "5,0",
       "isRecommended": true,
-      "isNew": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Satuan"]
+    },
+    {
+      "id": 3,
+      "name": "Paket Bakso Cincang",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/foto/paket-bakso-cincang.jpg",
+      "images": [
+        "/foto/paket-bakso-cincang.jpg",
+        "/foto/paket-bakso-cincang.jpg",
+        "/foto/paket-bakso-cincang.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
       "isHot": false,
       "menu": ["Paket"]
     },
     {
-      "id": 3,
-      "name": "Bakso Frozen Cincang 6 Pcs",
-      "price": 15.99,
+      "id": 4,
+      "name": "Paket Bakso Kecil",
+      "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Frozen%20Cincang%206%20Pcs.jpg",
+      "image": "/foto/paket-bakso-kecil.jpg",
       "images": [
-        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Frozen%20Cincang%206%20Pcs.jpg",
-        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Frozen%20Cincang%206%20Pcs.jpg",
-        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Frozen%20Cincang%206%20Pcs.jpg"
+        "/foto/paket-bakso-kecil.jpg",
+        "/foto/paket-bakso-kecil.jpg",
+        "/foto/paket-bakso-kecil.jpg"
       ],
-      "description": "Bakso cincang dalam kemasan vacuum pack, lengkap dengan kaldu siap masak. Fresh. Halal. Premium.",
-      "dietaryPreferences": ["High Protein", "Low Carb", "Low Sugar"],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Paket"]
+    },
+      {
+      "id": 5,
+      "name": "Paket Bakso Urat",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/foto/paket-bakso-urat.jpg",
+      "images": [
+        "/foto/paket-bakso-urat.jpg",
+        "/foto/paket-bakso-urat.jpg",
+        "/foto/paket-bakso-urat.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Paket"]
+    },
+    {
+      "id": 6,
+      "name": "Bakso Frozen Cincang 6 Pcs",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/foto/frozen-cincang-6.jpg",
+      "images": [
+        "/foto/frozen-cincang-6.jpg",
+        "/foto/frozen-cincang-6.jpg",
+        "/foto/frozen-cincang-6.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
@@ -67,61 +157,259 @@
       "menu": ["Frozen"]
     },
     {
-      "id": 4,
-      "name": "Mie Ayam Gulai",
-      "price": 6.99,
+      "id": 7,
+      "name": "Bakso Frozen Cincang 4 Pcs",
+      "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Mie%20Ayam%20Gulai%2002.jpg",
+      "image": "/foto/frozen-cincang-4.jpg",
       "images": [
-        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Mie%20Ayam%20Gulai%2002.jpg",
-        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Mie%20Ayam%20Gulai%2002.jpg",
-        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Mie%20Ayam%20Gulai%2002.jpg"
+       "/foto/frozen-cincang-4.jpg",
+       "/foto/frozen-cincang-4.jpg",
+       "/foto/frozen-cincang-4.jpg"
       ],
-      "description": "Mie kenyal dengan ayam gulai rempah khas, disajikan dengan kuah kaldu, sayuran, dan taburan bawang. Fresh. Halal. Premium.",
-      "dietaryPreferences": ["Low Calorie", "Low Fat", "Vegetarian"],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
-      "isHot": true,
+      "isHot": false,
+      "menu": ["Frozen"]
+    },
+    {
+      "id": 8,
+      "name": "Bakso Frozen Kecil 10 Pcs",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/foto/frozen-kecil-10.jpg",
+      "images": [
+       "/foto/frozen-kecil-10.jpg",
+       "/foto/frozen-kecil-10.jpg",
+       "/foto/frozen-kecil-10.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Frozen"]
+    },
+    {
+      "id": 9,
+      "name": "Bakso Frozen Kecil 20 Pcs",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/foto/frozen-kecil-20.jpg",
+      "images": [
+       "/foto/frozen-kecil-20.jpg",
+       "/foto/frozen-kecil-20.jpg",
+       "/foto/frozen-kecil-20.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Frozen"]
+    },
+    {
+      "id": 10,
+      "name": "Bakso Frozen Urat 6 Pcs",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/foto/frozen-urat-6.jpg",
+      "images": [
+       "/foto/frozen-urat-6.jpg",
+       "/foto/frozen-urat-6.jpg",
+       "/foto/frozen-urat-6.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Frozen"]
+    },
+    {
+      "id": 11,
+      "name": "Bakso Frozen Urat 4 Pcs",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/foto/frozen-urat-4.jpg",
+      "images": [
+       "/foto/frozen-urat-4.jpg",
+       "/foto/frozen-urat-4.jpg",
+       "/foto/frozen-urat-4.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Frozen"]
+    },
+    {
+      "id": 12,
+      "name": "Mie Ayam Gulai",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/foto/mie-ayam-gulai.jpg",
+      "images": [
+      "/foto/mie-ayam-gulai.jpg",
+      "/foto/mie-ayam-gulai.jpg",
+      "/foto/mie-ayam-gulai.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
       "menu": ["Mie"]
     },
     {
-      "id": 5,
-      "name": "Bakso Bakar",
-      "price": 14.99,
+      "id": 13,
+      "name": "Mie Yamin Bakso Khas Tasikmalaya",
+      "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Bakar%20Urat%2002.jpg",
+      "image": "/foto/mie-yamin-tasik.jpg",
       "images": [
-        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Bakar%20Urat%2002.jpg",
-        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Bakar%20Urat%2002.jpg",
-        "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/Bakso%20Bakar%20Urat%2002.jpg"
+      "/foto/mie-yamin-tasik.jpg",
+      "/foto/mie-yamin-tasik.jpg",
+      "/foto/mie-yamin-tasik.jpg"
       ],
-      "description": "Bakso panggang oles kecap manis-gurih, disajikan dengan bawang dan saus cabai. Fresh. Halal. Premium.",
-      "colors": [
-        {
-          "name": "champagne",
-          "code": "#F8E7CD"
-        },
-        {
-          "name": "pale cerulean",
-          "code": "#9DC5DB"
-        },
-        {
-          "name": "opal",
-          "code": "#96B8BA"
-        },
-        {
-          "name": "camel",
-          "code": "#B09765"
-        },
-        {
-          "name": "squid ink",
-          "code": "#142535"
-        }
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
       ],
-      "dietaryPreferences": ["High Protein", "Comfort Food", "Rich Flavor"],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Mie"]
+    },
+    {
+      "id": 14,
+      "name": "Nasi Bakso Pete",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/foto/nasi-bakso-pete.jpg",
+      "images": [
+      "/foto/nasi-bakso-pete.jpg",
+      "/foto/nasi-bakso-pete.jpg",
+      "/foto/nasi-bakso-pete.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Nasi"]
+    },
+    {
+      "id": 15,
+      "name": "Nasi Goreng Bakso",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/foto/nasi-goreng-bakso.jpg",
+      "images": [
+      "/foto/nasi-goreng-bakso.jpg",
+      "/foto/nasi-goreng-bakso.jpg",
+      "/foto/nasi-goreng-bakso.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Nasi"]
+    },
+    {
+      "id": 16,
+      "name": "Bakso Bakar",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/foto/bakso-bakar.jpg",
+      "images": [
+      "/foto/bakso-bakar.jpg",
+      "/foto/bakso-bakar.jpg",
+      "/foto/bakso-bakar.jpg"
+      ],
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
@@ -129,147 +417,56 @@
       "menu": ["Camilan"]
     },
     {
-      "id": 6,
-      "name": "Pan-Seared Duck",
-      "price": 18.99,
+      "id": 17,
+      "name": "Bakso Goreng",
+      "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "oldPrice": 229.7,
-      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/06.jpg",
+      "image": "/foto/baso-goreng.jpg",
       "images": [
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/06.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/06.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/06.jpg"
+      "/foto/baso-goreng.jpg",
+      "/foto/baso-goreng.jpg",
+      "/foto/baso-goreng.jpg"
       ],
-      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
       "dietaryPreferences": [
-        "High Protein",
-        "Low Carb",
-        "Low Sugar",
         "Keto Friendly",
-        "Gluten Free"
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
       ],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
-      "isHot": true,
-      "menu": ["meat", "hot meals"]
+      "isHot": false,
+      "menu": ["Camilan"]
     },
     {
-      "id": 7,
-      "name": "Tandoori Chicken",
-      "price": 17.99,
+      "id": 18,
+      "name": "Ayam Sambal Hitam",
+      "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/07.jpg",
+      "image": "/foto/ayam-sambal-hitam.jpg",
       "images": [
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/07.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/07.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/07.jpg"
+      "/foto/ayam-sambal-hitam.jpg",
+      "/foto/ayam-sambal-hitam.jpg",
+      "/foto/ayam-sambal-hitam.jpg"
       ],
-      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
+      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
       "dietaryPreferences": [
-        "High Protein",
-        "Low Carb",
-        "Low Sugar",
-        "Gluten Free"
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
       ],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["meat", "hot meals"]
-    },
-    {
-      "id": 8,
-      "name": "Honey Glazed Ham",
-      "price": 13.49,
-      "weight": 200,
-      "kcal": 110,
-      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/08.jpg",
-      "images": [
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/08.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/08.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/08.jpg"
-      ],
-      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "dietaryPreferences": ["High Protein", "Rich Flavor", "Sweet and Savory"],
-      "rating": "5,0",
-      "isRecommended": true,
-      "isNew": false,
-      "isHot": false,
-      "menu": ["meat", "hot meals"]
-    },
-    {
-      "id": 9,
-      "name": "Cream Soup",
-      "price": 5.49,
-      "weight": 200,
-      "kcal": 110,
-      "oldPrice": 229.7,
-      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/09.jpg",
-      "images": [
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/09.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/09.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/09.jpg"
-      ],
-      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "dietaryPreferences": [
-        "Low Calorie",
-        "Low Fat",
-        "Vegetarian",
-        "Gluten Free"
-      ],
-      "rating": "5,0",
-      "isRecommended": true,
-      "isNew": false,
-      "isHot": false,
-      "menu": ["soups", "hot meals"]
-    },
-    {
-      "id": 10,
-      "name": "Pancakes",
-      "price": 12.79,
-      "weight": 200,
-      "kcal": 110,
-      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/10.jpg",
-      "images": [
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/10.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/10.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/10.jpg"
-      ],
-      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "dietaryPreferences": ["High Carbs", "Sweet", "Vegetarian"],
-      "rating": "5,0",
-      "isRecommended": true,
-      "isNew": false,
-      "isHot": false,
-      "menu": ["desserts"]
-    },
-    {
-      "id": 11,
-      "name": "Vegetable salad",
-      "price": 11.49,
-      "weight": 200,
-      "kcal": 110,
-      "image": "https://george-fx.github.io/APIs/dinehub/assets/dishes/11.jpg",
-      "images": [
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/11.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/11.jpg",
-        "https://george-fx.github.io/APIs/dinehub/assets/dishes/11.jpg"
-      ],
-      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "dietaryPreferences": [
-        "Low Calorie",
-        "Low Carb",
-        "Vegan Friendly",
-        "Vegetarian"
-      ],
-      "rating": "5,0",
-      "isRecommended": true,
-      "isNew": false,
-      "isHot": false,
-      "menu": ["salads"]
+      "menu": ["Apothecook"]
     }
   ]
 }
