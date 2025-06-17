@@ -2,15 +2,15 @@
   "carousel": [
     {
       "id": 1,
-      "banner": "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/paket-bakso-cincang.JPG"
+      "banner": "https://sandimaulanajuhana.github.io/cobaksopwa/img/carousel-1.jpg"
     },
     {
       "id": 2,
-      "banner": "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/paket-bakso-urat.JPG"
+      "banner": "https://sandimaulanajuhana.github.io/cobaksopwa/img/carousel-3.jpg"
     },
     {
       "id": 3,
-      "banner": "https://jamyarduaitdckaegjga.supabase.co/storage/v1/object/public/cobakso-supabase/Menu-Image/paket-bakso-kecil.JPG"
+      "banner": "https://sandimaulanajuhana.github.io/cobaksopwa/img/carousel-2.jpg"
     }
   ]
 }
