@@ -2,15 +2,15 @@
   "carousel": [
     {
       "id": 1,
-      "banner": "/foto/carousel-1.jpg"
+      "banner": "/carousel/carousel-1.jpg"
     },
     {
       "id": 2,
-      "banner": "/foto/carousel-3.jpg"
+      "banner": "/carousel/carousel-3.jpg"
     },
     {
       "id": 3,
-      "banner": "/foto/carousel-2.jpg"
+      "banner": "/carousel/carousel-2.jpg"
     }
   ]
 }

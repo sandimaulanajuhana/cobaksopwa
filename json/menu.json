@@ -3,37 +3,37 @@
     {
       "id": 1,
       "name": "Satuan",
-      "image": "/foto/menu-satuan.jpg"
+      "image": "/menu/menu-satuan.jpg"
     },
     {
       "id": 2,
       "name": "Paket",
-      "image": "/foto/menu-paket.jpg"
+      "image": "/menu/menu-paket.jpg"
     },
     {
       "id": 3,
       "name": "Frozen",
-      "image": "/foto/menu-frozen.jpg"
+      "image": "/menu/menu-frozen.jpg"
     },
     {
       "id": 4,
       "name": "Mie",
-      "image": "/foto/menu-mie.jpg"
+      "image": "/menu/menu-mie.jpg"
     },
     {
       "id": 5,
       "name": "Nasi",
-      "image": "/foto/menu-nasi.jpg"
+      "image": "/menu/menu-nasi.jpg"
     },
     {
       "id": 6,
       "name": "Camilan",
-      "image": "/foto/menu-camilan.jpg"
+      "image": "/menu/menu-camilan.jpg"
     },
     {
       "id": 7,
       "name": "Apothecook",
-      "image": "/foto/menu-apothecook.jpg"
+      "image": "/menu/menu-apothecook.jpg"
     }
     
   ]
