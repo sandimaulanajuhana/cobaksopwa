@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title1": "Fresh, Halal, Premium",
-      "title2": "Cobakso",
+      "title2": "",
       "image": "/onboarding/medal.svg",
       "description1": "Dibuat dari daging sapi segar, tanpa pengawet, halal dan insyaAllah penuh keberkahan.",
       "description2": "Karena makanan enak harus datang dari niat yang baik."
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title1": "Pesan Cepat, Nikmat Dekat",
-      "title2": "Cobakso",
+      "title2": "",
       "image": "/onboarding/truck.svg",
       "description1": "Tinggal klik, bakso kamu langsung meluncur. Mau makan di rumah atau kantor?",
       "description2": "Bisa banget—instan dan tetap fresh!"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title1": "Lebih dari Sekadar Bakso",
-      "title2": "Cobakso",
+      "title2": "",
       "image": "/onboarding/hand.svg",
       "description1": "Kami nggak cuma jual bakso. Kami hadir untuk menghadirkan rasa,",
       "description2": "kebersamaan, dan manfaat yang berkepanjangan."
