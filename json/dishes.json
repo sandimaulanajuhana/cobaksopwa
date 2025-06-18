@@ -6,13 +6,13 @@
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/bakso-cincang.jpg",
+      "image": "/menu/bakso-cincang-01.jpg",
       "images": [
-        "/foto/bakso-urat.jpg",
-        "/foto/paket-bakso-cincang.jpg",
-        "/foto/paket-bakso-kecil.jpg"
+        "/menu/bakso-cincang-02.jpg",
+        "/menu/bakso-cincang-03.jpg",
+        "/menu/bakso-cincang-02.jpg"
       ],
-      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "description": "Bakso Cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
       "dietaryPreferences": [
         "Keto Friendly",
         "Gluten Free",
@@ -28,17 +28,43 @@
     },
     {
       "id": 2,
-      "name": "Bakso Urat",
+      "name": "Bakso Halus",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/bakso-urat.jpg",
+      "image": "/menu/bakso-cincang-01.jpg",
       "images": [
-        "/foto/bakso-urat.jpg",
-        "/foto/bakso-urat.jpg",
-        "/foto/bakso-urat.jpg"
+        "/menu/bakso-cincang-02.jpg",
+        "/menu/bakso-cincang-03.jpg",
+        "/menu/bakso-cincang-02.jpg"
       ],
-      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "description": "Bakso Halus dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Satuan"]
+    },
+        {
+      "id": 3,
+      "name": "Bakso Kecil",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/bakso-urat-03.jpg",
+      "images": [
+          "/menu/bakso-urat-02.jpg",
+          "/menu/bakso-urat-02.jpg",
+          "/menu/bakso-urat-02.jpg"
+      ],
+      "description": "Enam Bakso Kecil dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
       "dietaryPreferences": [
         "Keto Friendly",
         "Gluten Free",
@@ -53,18 +79,70 @@
       "menu": ["Satuan"]
     },
     {
-      "id": 3,
+      "id": 4,
+      "name": "Bakso Rawit",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/bakso-cincang-01.jpg",
+      "images": [
+        "/menu/bakso-cincang-02.jpg",
+        "/menu/bakso-cincang-03.jpg",
+        "/menu/bakso-cincang-02.jpg"
+      ],
+      "description": "Bakso Rawit dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": true,
+      "menu": ["Satuan"]
+    },
+    {
+      "id": 5,
+      "name": "Bakso Urat",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/bakso-urat-01.jpg",
+      "images": [
+        "/menu/bakso-urat-02.jpg",
+        "/menu/bakso-urat-03.jpg",
+        "/menu/bakso-urat-02.jpg"
+      ],
+      "description": "Bakso Urat dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Satuan"]
+    },
+    {
+      "id": 6,
       "name": "Paket Bakso Cincang",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/paket-bakso-cincang.jpg",
+      "image": "/menu/paket-bakso-cincang-01.jpg",
       "images": [
-        "/foto/paket-bakso-cincang.jpg",
-        "/foto/paket-bakso-cincang.jpg",
-        "/foto/paket-bakso-cincang.jpg"
+       "/menu/paket-bakso-cincang-02.jpg",
+       "/menu/paket-bakso-cincang-03.jpg",
+       "/menu/paket-bakso-cincang-02.jpg"
       ],
-      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "description": "Bakso Cincang dan Bakso Kecil dalam kuah kaldu gurih, lengkap dengan mie, sawi, dan bawang. Fresh. Halal. Premium.",
       "dietaryPreferences": [
         "Keto Friendly",
         "Gluten Free",
@@ -74,23 +152,49 @@
       ],
       "rating": "5,0",
       "isRecommended": true,
-      "isNew": false,
+      "isNew": true,
       "isHot": false,
       "menu": ["Paket"]
     },
     {
-      "id": 4,
+      "id": 7,
+      "name": "Paket Bakso Halus",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/paket-bakso-cincang-03.jpg",
+      "images": [
+        "/menu/paket-bakso-cincang-02.jpg",
+        "/menu/paket-bakso-cincang-01.jpg",
+        "/menu/paket-bakso-cincang-02.jpg"
+      ],
+      "description": "Bakso Halus dan Bakso Kecil dalam kuah kaldu gurih, lengkap dengan mie, sawi, dan bawang. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": true,
+      "isHot": false,
+      "menu": ["Paket"]
+    },
+    {
+      "id": 8,
       "name": "Paket Bakso Kecil",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/paket-bakso-kecil.jpg",
+      "image": "/menu/paket-bakso-kecil-01.jpg",
       "images": [
-        "/foto/paket-bakso-kecil.jpg",
-        "/foto/paket-bakso-kecil.jpg",
-        "/foto/paket-bakso-kecil.jpg"
+        "/menu/paket-bakso-kecil-02.jpg",
+        "/menu/paket-bakso-kecil-03.jpg",
+        "/menu/paket-bakso-kecil-02.jpg"
       ],
-      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "description": "Lima Bakso Kecil dalam kuah kaldu gurih, lengkap dengan mie, sawi, dan bawang. Fresh. Halal. Premium.",
       "dietaryPreferences": [
         "Keto Friendly",
         "Gluten Free",
@@ -104,19 +208,45 @@
       "isHot": false,
       "menu": ["Paket"]
     },
-      {
-      "id": 5,
+    {
+      "id": 9,
+      "name": "Paket Bakso Rawit",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/paket-bakso-cincang-03.jpg",
+      "images": [
+        "/menu/paket-bakso-cincang-02.jpg",
+        "/menu/paket-bakso-cincang-01.jpg",
+        "/menu/paket-bakso-cincang-02.jpg"
+      ],
+      "description": "Bakso Rwit dan Bakso Kecil dalam kuah kaldu gurih, lengkap dengan mie, sawi, dan bawang. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": true,
+      "menu": ["Paket"]
+    },
+    {
+      "id": 10,
       "name": "Paket Bakso Urat",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/paket-bakso-urat.jpg",
+      "image": "/menu/paket-bakso-urat-01.jpg",
       "images": [
-        "/foto/paket-bakso-urat.jpg",
-        "/foto/paket-bakso-urat.jpg",
-        "/foto/paket-bakso-urat.jpg"
+        "/menu/paket-bakso-urat-02.jpg",
+        "/menu/paket-bakso-urat-03.jpg",
+        "/menu/paket-bakso-urat-02.jpg"
       ],
-      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "description": "Bakso Urat dan Bakso Kecil dalam kuah kaldu gurih, lengkap dengan mie, sawi, dan bawang. Fresh. Halal. Premium.",
       "dietaryPreferences": [
         "Keto Friendly",
         "Gluten Free",
@@ -131,148 +261,18 @@
       "menu": ["Paket"]
     },
     {
-      "id": 6,
+      "id": 11,
       "name": "Bakso Frozen Cincang 6 Pcs",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/frozen-cincang-6.jpg",
+      "image": "/menu/frozen-cincang-6.jpg",
       "images": [
-        "/foto/frozen-cincang-6.jpg",
-        "/foto/frozen-cincang-6.jpg",
-        "/foto/frozen-cincang-6.jpg"
+        "/menu/frozen-cincang-4.jpg",
+        "/menu/frozen-cincang-6.jpg",
+        "/menu/frozen-cincang-4.jpg"
       ],
-      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
-      "dietaryPreferences": [
-        "Keto Friendly",
-        "Gluten Free",
-        "Dairy Free",
-        "Healthy Fats",
-        "Low Calorie"
-      ],
-      "rating": "5,0",
-      "isRecommended": true,
-      "isNew": false,
-      "isHot": false,
-      "menu": ["Frozen"]
-    },
-    {
-      "id": 7,
-      "name": "Bakso Frozen Cincang 4 Pcs",
-      "price": 10.99,
-      "weight": 200,
-      "kcal": 110,
-      "image": "/foto/frozen-cincang-4.jpg",
-      "images": [
-       "/foto/frozen-cincang-4.jpg",
-       "/foto/frozen-cincang-4.jpg",
-       "/foto/frozen-cincang-4.jpg"
-      ],
-      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
-      "dietaryPreferences": [
-        "Keto Friendly",
-        "Gluten Free",
-        "Dairy Free",
-        "Healthy Fats",
-        "Low Calorie"
-      ],
-      "rating": "5,0",
-      "isRecommended": true,
-      "isNew": false,
-      "isHot": false,
-      "menu": ["Frozen"]
-    },
-    {
-      "id": 8,
-      "name": "Bakso Frozen Kecil 10 Pcs",
-      "price": 10.99,
-      "weight": 200,
-      "kcal": 110,
-      "image": "/foto/frozen-kecil-10.jpg",
-      "images": [
-       "/foto/frozen-kecil-10.jpg",
-       "/foto/frozen-kecil-10.jpg",
-       "/foto/frozen-kecil-10.jpg"
-      ],
-      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
-      "dietaryPreferences": [
-        "Keto Friendly",
-        "Gluten Free",
-        "Dairy Free",
-        "Healthy Fats",
-        "Low Calorie"
-      ],
-      "rating": "5,0",
-      "isRecommended": true,
-      "isNew": false,
-      "isHot": false,
-      "menu": ["Frozen"]
-    },
-    {
-      "id": 9,
-      "name": "Bakso Frozen Kecil 20 Pcs",
-      "price": 10.99,
-      "weight": 200,
-      "kcal": 110,
-      "image": "/foto/frozen-kecil-20.jpg",
-      "images": [
-       "/foto/frozen-kecil-20.jpg",
-       "/foto/frozen-kecil-20.jpg",
-       "/foto/frozen-kecil-20.jpg"
-      ],
-      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
-      "dietaryPreferences": [
-        "Keto Friendly",
-        "Gluten Free",
-        "Dairy Free",
-        "Healthy Fats",
-        "Low Calorie"
-      ],
-      "rating": "5,0",
-      "isRecommended": true,
-      "isNew": false,
-      "isHot": false,
-      "menu": ["Frozen"]
-    },
-    {
-      "id": 10,
-      "name": "Bakso Frozen Urat 6 Pcs",
-      "price": 10.99,
-      "weight": 200,
-      "kcal": 110,
-      "image": "/foto/frozen-urat-6.jpg",
-      "images": [
-       "/foto/frozen-urat-6.jpg",
-       "/foto/frozen-urat-6.jpg",
-       "/foto/frozen-urat-6.jpg"
-      ],
-      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
-      "dietaryPreferences": [
-        "Keto Friendly",
-        "Gluten Free",
-        "Dairy Free",
-        "Healthy Fats",
-        "Low Calorie"
-      ],
-      "rating": "5,0",
-      "isRecommended": true,
-      "isNew": false,
-      "isHot": false,
-      "menu": ["Frozen"]
-    },
-    {
-      "id": 11,
-      "name": "Bakso Frozen Urat 4 Pcs",
-      "price": 10.99,
-      "weight": 200,
-      "kcal": 110,
-      "image": "/foto/frozen-urat-4.jpg",
-      "images": [
-       "/foto/frozen-urat-4.jpg",
-       "/foto/frozen-urat-4.jpg",
-       "/foto/frozen-urat-4.jpg"
-      ],
-      "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "description": "Bakso Cincang dalam kemasan vacuum pack, lengkap dengan kaldu siap masak. Fresh. Halal. Premium.",
       "dietaryPreferences": [
         "Keto Friendly",
         "Gluten Free",
@@ -288,15 +288,119 @@
     },
     {
       "id": 12,
+      "name": "Bakso Frozen Halus 6 Pcs",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/frozen-cincang-6.jpg",
+      "images": [
+       "/menu/frozen-cincang-4.jpg",
+       "/menu/frozen-cincang-6.jpg",
+       "/menu/frozen-cincang-4.jpg"
+      ],
+      "description": "Bakso Halus dalam kemasan vacuum pack, lengkap dengan kaldu siap masak. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Frozen"]
+    },
+    {
+      "id": 13,
+      "name": "Bakso Frozen Kecil 20 Pcs",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/frozen-kecil-20.jpg",
+      "images": [
+       "/menu/frozen-kecil-10.jpg",
+       "/menu/frozen-kecil-20.jpg",
+       "/menu/frozen-kecil-10.jpg"
+      ],
+      "description": "Bakso Kecil dalam kemasan vacuum pack, lengkap dengan kaldu siap masak. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Frozen"]
+    },
+    {
+      "id": 14,
+      "name": "Bakso Frozen Rawit 6 Pcs",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/frozen-urat-6.jpg",
+      "images": [
+       "/menu/frozen-urat-4.jpg",
+       "/menu/frozen-urat-6.jpg",
+       "/menu/frozen-urat-4.jpg"
+      ],
+      "description": "Bakso isi Rawit dalam kemasan vacuum pack, lengkap dengan kaldu siap masak. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": true,
+      "menu": ["Frozen"]
+    },
+    {
+      "id": 15,
+      "name": "Bakso Frozen Urat 6 Pcs",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/frozen-urat-6.jpg",
+      "images": [
+       "/menu/frozen-urat-4.jpg",
+       "/menu/frozen-urat-6.jpg",
+       "/menu/frozen-urat-4.jpg"
+      ],
+      "description": "Bakso Urat dalam kemasan vacuum pack, lengkap dengan kaldu siap masak. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Frozen"]
+    },
+    {
+      "id": 16,
       "name": "Mie Ayam Gulai",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/mie-ayam-gulai.jpg",
+      "image": "/menu/mie-ayam-gulai-01.jpg",
       "images": [
-      "/foto/mie-ayam-gulai.jpg",
-      "/foto/mie-ayam-gulai.jpg",
-      "/foto/mie-ayam-gulai.jpg"
+        "/menu/mie-ayam-gulai-02.jpg",
+        "/menu/mie-ayam-gulai-03.jpg",
+        "/menu/mie-ayam-gulai-02.jpg"
       ],
       "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
       "dietaryPreferences": [
@@ -313,16 +417,16 @@
       "menu": ["Mie"]
     },
     {
-      "id": 13,
+      "id": 17,
       "name": "Mie Yamin Bakso Khas Tasikmalaya",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/mie-yamin-tasik.jpg",
+      "image": "/menu/mie-yamin-tasik-01.jpg",
       "images": [
-      "/foto/mie-yamin-tasik.jpg",
-      "/foto/mie-yamin-tasik.jpg",
-      "/foto/mie-yamin-tasik.jpg"
+        "/menu/mie-yamin-tasik-02.jpg",
+        "/menu/mie-yamin-tasik-01.jpg",
+        "/menu/mie-yamin-tasik-02.jpg"
       ],
       "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
       "dietaryPreferences": [
@@ -339,16 +443,16 @@
       "menu": ["Mie"]
     },
     {
-      "id": 14,
+      "id": 18,
       "name": "Nasi Bakso Pete",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/nasi-bakso-pete.jpg",
+      "image": "/menu/nasi-bakso-pete-01.jpg",
       "images": [
-      "/foto/nasi-bakso-pete.jpg",
-      "/foto/nasi-bakso-pete.jpg",
-      "/foto/nasi-bakso-pete.jpg"
+        "/menu/nasi-bakso-pete-02.jpg",
+        "/menu/nasi-bakso-pete-01.jpg",
+        "/menu/nasi-bakso-pete-02.jpg"
       ],
       "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
       "dietaryPreferences": [
@@ -365,16 +469,16 @@
       "menu": ["Nasi"]
     },
     {
-      "id": 15,
+      "id": 19,
       "name": "Nasi Goreng Bakso",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/nasi-goreng-bakso.jpg",
+      "image": "/menu/nasi-goreng-bakso-01.jpg",
       "images": [
-      "/foto/nasi-goreng-bakso.jpg",
-      "/foto/nasi-goreng-bakso.jpg",
-      "/foto/nasi-goreng-bakso.jpg"
+        "/menu/nasi-goreng-bakso-02.jpg",
+        "/menu/nasi-goreng-bakso-01.jpg",
+        "/menu/nasi-goreng-bakso-02.jpg"
       ],
       "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
       "dietaryPreferences": [
@@ -391,16 +495,16 @@
       "menu": ["Nasi"]
     },
     {
-      "id": 16,
+      "id": 20,
       "name": "Bakso Bakar",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/bakso-bakar.jpg",
+      "image": "/menu/bakso-bakar-01.jpg",
       "images": [
-      "/foto/bakso-bakar.jpg",
-      "/foto/bakso-bakar.jpg",
-      "/foto/bakso-bakar.jpg"
+        "/menu/bakso-bakar-02.jpg",
+        "/menu/bakso-bakar-03.jpg",
+        "/menu/bakso-bakar-02.jpg"
       ],
       "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
       "dietaryPreferences": [
@@ -417,16 +521,16 @@
       "menu": ["Camilan"]
     },
     {
-      "id": 17,
+      "id": 21,
       "name": "Bakso Goreng",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/baso-goreng.jpg",
+      "image": "/menu/bakso-goreng-01.jpg",
       "images": [
-      "/foto/baso-goreng.jpg",
-      "/foto/baso-goreng.jpg",
-      "/foto/baso-goreng.jpg"
+        "/menu/bakso-goreng-02.jpg",
+        "/menu/bakso-goreng-01.jpg",
+        "/menu/bakso-goreng-02.jpg"
       ],
       "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
       "dietaryPreferences": [
@@ -443,18 +547,122 @@
       "menu": ["Camilan"]
     },
     {
-      "id": 18,
+      "id": 22,
       "name": "Ayam Sambal Hitam",
       "price": 10.99,
       "weight": 200,
       "kcal": 110,
-      "image": "/foto/ayam-sambal-hitam.jpg",
+      "image": "/menu/ayam-sambal-hitam-01.jpg",
       "images": [
-      "/foto/ayam-sambal-hitam.jpg",
-      "/foto/ayam-sambal-hitam.jpg",
-      "/foto/ayam-sambal-hitam.jpg"
+      "/menu/ayam-sambal-hitam-02.jpg",
+      "/menu/ayam-sambal-hitam-01.jpg",
+      "/menu/ayam-sambal-hitam-02.jpg"
       ],
       "description": "Bakso cincang dalam kuah kaldu gurih, disajikan dengan bawang goreng dan bawang daun. Fresh. Halal. Premium.",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Apothecook"]
+    },
+    {
+      "id": 23,
+      "name": "Spicy Mini Quiche",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/spicy-mini-quiche-01.jpg",
+      "images": [
+      "/menu/spicy-mini-quiche-02.jpg",
+      "/menu/spicy-mini-quiche-03.jpg",
+      "/menu/spicy-mini-quiche-02.jpg"
+      ],
+      "description": "Flaky pastry crust consisted Smoke beef or Mince Beet with cheese, creamy egg filling and spicy topping (green cayenne or red cayenne or jalapeno)",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": true,
+      "menu": ["Apothecook"]
+    },
+    {
+      "id": 24,
+      "name": "Non-Spicy Mini Quiche",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/non-spicy-mini-quiche-01.jpg",
+      "images": [
+      "/menu/non-spicy-mini-quiche-02.jpg",
+      "/menu/non-spicy-mini-quiche-03.jpg",
+      "/menu/non-spicy-mini-quiche-02.jpg"
+      ],
+      "description": "Flaky pastry crust consisted Smoke beef or Mince Beef with cheese, creamy egg filling and non spicy topping (paprika or mushroom or tomato)",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Apothecook"]
+    },
+    {
+      "id": 25,
+      "name": "Creme Brulee",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/creme-brulee-01.jpg",
+      "images": [
+      "/menu/creme-brulee-02.jpg",
+      "/menu/creme-brulee-03.jpg",
+      "/menu/creme-brulee-02.jpg"
+      ],
+      "description": "European dessert consisting of rich custard base topped with a layer of hardened caramelized sugar (90 g per cup)",
+      "dietaryPreferences": [
+        "Keto Friendly",
+        "Gluten Free",
+        "Dairy Free",
+        "Healthy Fats",
+        "Low Calorie"
+      ],
+      "rating": "5,0",
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
+      "menu": ["Apothecook"]
+    },
+    {
+      "id": 26,
+      "name": "Tiramisu in A Cup",
+      "price": 10.99,
+      "weight": 200,
+      "kcal": 110,
+      "image": "/menu/tiramisu-in-a-cup-01.jpg",
+      "images": [
+      "/menu/tiramisu-in-a-cup-02.jpg",
+      "/menu/tiramisu-in-a-cup-03.jpg",
+      "/menu/tiramisu-in-a-cup-02.jpg"
+      ],
+      "description": "Coffee-flavoured Italian dessert with biscuit layered filled with premium mascarpone cheese and cream. Eggless and kidfirendy (100 g per cup)",
       "dietaryPreferences": [
         "Keto Friendly",
         "Gluten Free",

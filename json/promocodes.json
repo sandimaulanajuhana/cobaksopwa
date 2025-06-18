@@ -4,19 +4,19 @@
             "id": 1,
             "code": "cobakso",
             "discount": 35,
-            "expiry": "Dec 31, 2023"
+            "expiry": "Jul 31, 2025"
         },
         {
             "id": 2,
             "code": "apothecook",
             "discount": 50,
-            "expiry": "Dec 31, 2023"
+            "expiry": "Aug 31, 2025"
         },
         {
             "id": 3,
             "code": "kuliner",
             "discount": 10,
-            "expiry": "Dec 31, 2023"
+            "expiry": "Mar 20, 2025"
         }
     ]
 }
