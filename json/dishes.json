@@ -3,8 +3,8 @@
     {
       "id": 1,
       "name": "Bakso Cincang",
-      "price": 10.99,
-      "weight": 200,
+      "price": 15000,
+      "weight": 400,
       "kcal": 110,
       "image": "/menu/bakso-cincang-01.jpg",
       "images": [
@@ -29,7 +29,7 @@
     {
       "id": 2,
       "name": "Bakso Halus",
-      "price": 10.99,
+      "price": 15000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/bakso-cincang-01.jpg",
@@ -55,7 +55,7 @@
         {
       "id": 3,
       "name": "Bakso Kecil",
-      "price": 10.99,
+      "price": 18000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/bakso-urat-03.jpg",
@@ -81,7 +81,7 @@
     {
       "id": 4,
       "name": "Bakso Rawit",
-      "price": 10.99,
+      "price": 15000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/bakso-cincang-01.jpg",
@@ -107,7 +107,7 @@
     {
       "id": 5,
       "name": "Bakso Urat",
-      "price": 10.99,
+      "price": 15000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/bakso-urat-01.jpg",
@@ -133,7 +133,7 @@
     {
       "id": 6,
       "name": "Paket Bakso Cincang",
-      "price": 10.99,
+      "price": 25000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/paket-bakso-cincang-01.jpg",
@@ -159,7 +159,7 @@
     {
       "id": 7,
       "name": "Paket Bakso Halus",
-      "price": 10.99,
+      "price": 25000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/paket-bakso-cincang-03.jpg",
@@ -185,7 +185,7 @@
     {
       "id": 8,
       "name": "Paket Bakso Kecil",
-      "price": 10.99,
+      "price": 28000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/paket-bakso-kecil-01.jpg",
@@ -211,7 +211,7 @@
     {
       "id": 9,
       "name": "Paket Bakso Rawit",
-      "price": 10.99,
+      "price": 25000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/paket-bakso-cincang-03.jpg",
@@ -237,7 +237,7 @@
     {
       "id": 10,
       "name": "Paket Bakso Urat",
-      "price": 10.99,
+      "price": 25000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/paket-bakso-urat-01.jpg",
@@ -263,7 +263,7 @@
     {
       "id": 11,
       "name": "Bakso Frozen Cincang 6 Pcs",
-      "price": 10.99,
+      "price": 57000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/frozen-cincang-6.jpg",
@@ -289,7 +289,7 @@
     {
       "id": 12,
       "name": "Bakso Frozen Halus 6 Pcs",
-      "price": 10.99,
+      "price": 57000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/frozen-cincang-6.jpg",
@@ -315,7 +315,7 @@
     {
       "id": 13,
       "name": "Bakso Frozen Kecil 20 Pcs",
-      "price": 10.99,
+      "price": 57000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/frozen-kecil-20.jpg",
@@ -341,7 +341,7 @@
     {
       "id": 14,
       "name": "Bakso Frozen Rawit 6 Pcs",
-      "price": 10.99,
+      "price": 57000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/frozen-urat-6.jpg",
@@ -367,7 +367,7 @@
     {
       "id": 15,
       "name": "Bakso Frozen Urat 6 Pcs",
-      "price": 10.99,
+      "price": 57000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/frozen-urat-6.jpg",
@@ -393,7 +393,7 @@
     {
       "id": 16,
       "name": "Mie Ayam Gulai",
-      "price": 10.99,
+      "price": 20000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/mie-ayam-gulai-01.jpg",
@@ -419,7 +419,7 @@
     {
       "id": 17,
       "name": "Mie Yamin Bakso Khas Tasikmalaya",
-      "price": 10.99,
+      "price": 25000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/mie-yamin-tasik-01.jpg",
@@ -445,7 +445,7 @@
     {
       "id": 18,
       "name": "Nasi Bakso Pete",
-      "price": 10.99,
+      "price": 28000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/nasi-bakso-pete-01.jpg",
@@ -471,7 +471,7 @@
     {
       "id": 19,
       "name": "Nasi Goreng Bakso",
-      "price": 10.99,
+      "price": 25000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/nasi-goreng-bakso-01.jpg",
@@ -497,7 +497,7 @@
     {
       "id": 20,
       "name": "Bakso Bakar",
-      "price": 10.99,
+      "price": 24000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/bakso-bakar-01.jpg",
@@ -523,7 +523,7 @@
     {
       "id": 21,
       "name": "Bakso Goreng",
-      "price": 10.99,
+      "price": 24000,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/bakso-goreng-01.jpg",
@@ -549,8 +549,8 @@
     {
       "id": 22,
       "name": "Ayam Sambal Hitam",
-      "price": 10.99,
-      "weight": 200,
+      "price": 50000,
+      "weight": 500,
       "kcal": 110,
       "image": "/menu/ayam-sambal-hitam-01.jpg",
       "images": [
@@ -575,7 +575,7 @@
     {
       "id": 23,
       "name": "Spicy Mini Quiche",
-      "price": 10.99,
+      "price": 27500,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/spicy-mini-quiche-01.jpg",
@@ -601,7 +601,7 @@
     {
       "id": 24,
       "name": "Non-Spicy Mini Quiche",
-      "price": 10.99,
+      "price": 27500,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/non-spicy-mini-quiche-01.jpg",
@@ -627,7 +627,7 @@
     {
       "id": 25,
       "name": "Creme Brulee",
-      "price": 10.99,
+      "price": 27500,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/creme-brulee-01.jpg",
@@ -653,7 +653,7 @@
     {
       "id": 26,
       "name": "Tiramisu in A Cup",
-      "price": 10.99,
+      "price": 27500,
       "weight": 200,
       "kcal": 110,
       "image": "/menu/tiramisu-in-a-cup-01.jpg",
